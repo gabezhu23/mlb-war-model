@@ -1,0 +1,4 @@
+env/
+raw_batting_data.csv
+__pycache__/
+*.pyc
